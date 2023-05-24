@@ -7,12 +7,15 @@
 }
 
 /* Write CSS here to make navbar sticky to the top of the page */
-#navbar {
-
+#navbar { 
+    position:sticky;
+    top: 20px
 }
 
-#header {
-    position: relative;
+#header image{
+ position: relative;
+       bottom: 200px
+    
 }
 
 /* relatively position header image inside header element using CSS here */
