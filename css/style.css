@@ -51,6 +51,10 @@ body {
 button:hover {
     background-color: rgb(219, 191, 63);
     text-decoration: none;
+    color: aquamarine;
+    text-align: center;
+    box-shadow: inset 2px 2px 1px;
+    border-radius: 2px;
 }
 
 
