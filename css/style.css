@@ -67,7 +67,7 @@ button:hover {
     color: whitesmoke;
     padding: 2rem;
     padding-bottom: 4rem;
-    height: 25vh;
+    height: 60vh;
 }
 .header-content {
     padding: 3rem;
@@ -116,4 +116,10 @@ main {
     color: whitesmoke;
     text-align: center;
     padding: 2rem;
+}
+
+header {
+    background-image: url("/Images/background.png");
+    background-size: 1300px 560px;
+    background-repeat: no-repeat;
 }
